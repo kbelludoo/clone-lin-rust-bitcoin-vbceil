@@ -1,0 +1,7 @@
+SPDX-License-Identifier: CC0-1.0
+
+This LIN clone of rust-bitcoin FeeRate sat/MvB conversions is published
+under CC0-1.0, matching upstream rust-bitcoin/rust-bitcoin
+units/src/fee_rate/mod.rs (commit cb2404331101acac9df5a07487ea6f3ed1828037).
+
+https://creativecommons.org/publicdomain/zero/1.0/
